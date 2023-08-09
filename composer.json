@@ -1,6 +1,9 @@
 {
     "name": "snowdog/frontools",
     "description": "Set of front-end tools for Magento 2, based on Gulp.js",
+    "require": {
+        "php": "~7.4.0||~8.1.0||~8.2.0"
+    },
     "license": "MIT",
     "type": "magento2-component"
 }
