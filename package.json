@@ -1,10 +1,10 @@
 {
   "name": "magento2-frontools",
-  "version": "1.14.0",
+  "version": "1.14.1",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/SnowdogApps/magento2-frontools"
+    "url": "https://github.com/HSF-Digital-Team/magento2-frontools"
   },
   "license": "MIT",
   "dependencies": {
